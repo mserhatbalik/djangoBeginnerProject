@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9058dd18-e4d4-49eb-bf9b-116ea228ed58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/djangoBeginnerProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoBeginnerProject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoBeginnerProject/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoBeginnerProject/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoBeginnerProject/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoBeginnerProject/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+    <list default="true" id="9058dd18-e4d4-49eb-bf9b-116ea228ed58" name="Changes" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoBeginnerProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoBeginnerProject/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,11 +80,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715082079959</updated>
-      <workItem from="1715082115949" duration="431000" />
+      <workItem from="1715082115949" duration="501000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1715082605572</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715082605572</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>

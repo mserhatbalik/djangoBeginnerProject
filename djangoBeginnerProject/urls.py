@@ -17,7 +17,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
-# Test git push
+# Test git
 
 urlpatterns = [
     path('admin/', admin.site.urls),
