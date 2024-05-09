@@ -7,8 +7,10 @@
     <list default="true" id="9058dd18-e4d4-49eb-bf9b-116ea228ed58" name="Changes" comment="Second commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employees/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/employees/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoBeginnerProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoBeginnerProject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoBeginnerProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoBeginnerProject/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/employees/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/employees/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/green_card_vesikalık.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +112,7 @@
       <workItem from="1715097832765" duration="4599000" />
       <workItem from="1715266410323" duration="678000" />
       <workItem from="1715267270986" duration="2534000" />
-      <workItem from="1715270183785" duration="7188000" />
+      <workItem from="1715270183785" duration="9453000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -138,16 +140,5 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Second commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/djangoBeginnerProject/urls.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
