@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9058dd18-e4d4-49eb-bf9b-116ea228ed58" name="Changes" comment="Second commit">
+      <change afterPath="$PROJECT_DIR$/djangoBeginnerProject/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employees/migrations/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoBeginnerProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoBeginnerProject/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangoBeginnerProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoBeginnerProject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -42,14 +47,22 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "django.template.preview.state": "SHOW_EDITOR",
     "git-widget-placeholder": "main",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mserh\PycharmProjects\djangoBeginnerProject\djangoBeginnerProject" />
+      <recent name="C:\Users\mserh\PycharmProjects\djangoBeginnerProject" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="djangoBeginnerProject" type="Python.DjangoServer" factoryName="Django server">
       <module name="djangoBeginnerProject" />
@@ -95,7 +108,10 @@
       <updated>1715082079959</updated>
       <workItem from="1715082115949" duration="1786000" />
       <workItem from="1715084667403" duration="2653000" />
-      <workItem from="1715097832765" duration="4508000" />
+      <workItem from="1715097832765" duration="4599000" />
+      <workItem from="1715266410323" duration="678000" />
+      <workItem from="1715267270986" duration="2534000" />
+      <workItem from="1715270183785" duration="2890000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
