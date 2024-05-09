@@ -2,7 +2,7 @@ from django.db import models  # Importing models module from django.db
 
 # Defining Employee model which inherits from models.Model
 class Employee(models.Model):
-    name = models.CharField(max_length=100)  # Name field, a character field with maximum length of 100
+    first_name = models.CharField(max_length=100)  # Name field, a character field with maximum length of 100
     last_name = models.CharField(max_length=100)  # Last name field, a character field with maximum length of 100
     photo = models.ImageField(upload_to='photos')  # Photo field, an image field where images will be uploaded to 'images' directory
     designation = models.CharField(max_length=100)  # Designation field, a character field with maximum length of 100

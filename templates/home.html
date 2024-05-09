@@ -46,5 +46,13 @@
     </tr>
     </tbody>
 </table>
+
+<!-- print employees data inside an unordered list -->
+<ul>
+    {% for employee in employees %}
+        <li>{{ employee.first_name }} {{ employee.last_name }}</li>
+    {% endfor %}
+</ul>
+
 </body>
 </html>
