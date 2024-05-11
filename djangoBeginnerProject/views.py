@@ -6,7 +6,6 @@ from employees.models import Employee
 
 
 def home(request):
-
     # get employee data from database and return it to the template
     employees = Employee.objects.all()
     context = {

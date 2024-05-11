@@ -13,4 +13,4 @@ class Employee(models.Model):
 
     # Defining a string representation of the model
     def __str__(self):
-        return self.name  # Return the name of the employee
+        return self.first_name  # Return the name of the employee

@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9058dd18-e4d4-49eb-bf9b-116ea228ed58" name="Changes" comment="Second commit">
+      <change afterPath="$PROJECT_DIR$/employees/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/employee_detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoBeginnerProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoBeginnerProject/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangoBeginnerProject/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoBeginnerProject/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/employees/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/employees/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employees/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/employees/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +26,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="CSS File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -41,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "Django Server.djangoBeginnerProject.executor": "Run",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -111,7 +117,13 @@
       <workItem from="1715097832765" duration="4599000" />
       <workItem from="1715266410323" duration="678000" />
       <workItem from="1715267270986" duration="2534000" />
-      <workItem from="1715270183785" duration="13295000" />
+      <workItem from="1715270183785" duration="13335000" />
+      <workItem from="1715287400994" duration="802000" />
+      <workItem from="1715349787645" duration="561000" />
+      <workItem from="1715350367292" duration="763000" />
+      <workItem from="1715356300282" duration="862000" />
+      <workItem from="1715358333282" duration="1186000" />
+      <workItem from="1715434103188" duration="4986000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
